@@ -18,11 +18,11 @@ I write code, break code, fix code, then somehow break it differently.
 
 - learning more Java & Python
 - trying to make my code less questionable
-- surviving university deadlines
+- building projects
 
 ## goals
 
 - explore different areas of tech to figure out what suits me most
-- currently interested in healthcare tech, embedded systems, cybersecurity, game development, and analysing large amounts of data
+- currently interested in healthcare tech, embedded systems, cybersecurity, game development, and analysing large amounts of data...yes, i know that's a very random combination. 
 - build projects I'm actually proud of
 - survive the next 2 years of uni
