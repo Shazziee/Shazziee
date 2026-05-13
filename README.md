@@ -16,9 +16,9 @@ I write code, break code, fix code, then somehow break it differently.
 
 ## currently
 
-- learning more Java & Python
-- trying to make my code less questionable
-- building projects
+- learning more Java and Python
+- building my poritfolio site from scratch
+- learning to make my code less questionable
 
 ## goals
 
