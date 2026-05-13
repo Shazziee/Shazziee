@@ -23,5 +23,5 @@ I write code, break code, fix code, then somehow break it differently.
 ## goals
 
 - explore my interests in healthcare tech, embedded systems, cybersecurity, game development, and data science (yes, i know that's a very random combination) to figure out what suits me best. 
-- build projects I'm proud of
+- build more projects
 - survive the next 2 years of uni
