@@ -18,11 +18,11 @@ I write code, break code, fix code, then somehow break it differently.
 
 - learning more Java and Python
 - building my poritfolio site from scratch
-- learning to make my code less questionable
+- learning to make my code less questionable 
 
 ## goals
 
 - explore different areas of tech to figure out what suits me most
-- currently interested in healthcare tech, embedded systems, cybersecurity, game development, and analysing large amounts of data...yes, i know that's a very random combination. 
+- explore my interests in healthcare tech, embedded systems, cybersecurity, game development, and analysing large amounts of data...yes, i know that's a very random combination. 
 - build projects I'm proud of
 - survive the next 2 years of uni
