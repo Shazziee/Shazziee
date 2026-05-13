@@ -24,5 +24,5 @@ I write code, break code, fix code, then somehow break it differently.
 
 - explore different areas of tech to figure out what suits me most
 - currently interested in healthcare tech, embedded systems, cybersecurity, game development, and analysing large amounts of data...yes, i know that's a very random combination. 
-- build projects I'm actually proud of
+- build projects I'm proud of
 - survive the next 2 years of uni
